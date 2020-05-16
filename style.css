@@ -10,6 +10,7 @@
     background: url(lake.jpg);
     background-size:cover;
     background-position: center;
+    transition:all 0.3s ease-in-out;
 }
 
 
@@ -99,6 +100,7 @@ position:relative;
         position:absolute;
         top:0%;
         left:0%;
+        transition:all 0.3s ease-in-out;
     }
     .form-container {
         width:100%;
